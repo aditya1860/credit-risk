@@ -1,18 +1,16 @@
 # Node
-node_modules/
+frontend/node_modules/
 
 # Python
 venv/
 __pycache__/
 
-# Data (VERY IMPORTANT)
+# Data
 data/
 notebooks/*.csv
 *.part
 
-# Large files
-*.csv
-*.zip
+# Models (optional, keep small ones only)
 *.pkl
 *.sav
 

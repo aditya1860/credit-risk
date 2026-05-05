@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+"frontend/node_modules/" 
+"notebooks/loan_data_2015.csv" 
+"notebooks/loan_data_2015.csvgmpcd_vc.part" 
+"data/loan_data_inputs_train_preprocessed.csv" 
+"data/loan_data_inputs_train.csv" 
