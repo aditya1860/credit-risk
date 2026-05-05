@@ -1,0 +1,20 @@
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+
+# Data (VERY IMPORTANT)
+data/
+notebooks/*.csv
+*.part
+
+# Large files
+*.csv
+*.zip
+*.pkl
+*.sav
+
+# Logs
+*.log
