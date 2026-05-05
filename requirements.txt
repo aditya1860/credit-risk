@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+gdown
+scikit-learn==1.8.0
+scipy
+cpi==1.0.5
+fastapi
+uvicorn
